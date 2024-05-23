@@ -6,39 +6,46 @@
 ## Створення dataset
 Method: POST
 
-![](https://github.com/TarasVasiliev/lab-6/assets/159653005/17428603-4106-4d30-93af-29a1160bbc22)
+![image](https://github.com/TarasVasiliev/lab6/assets/159653005/8ed04815-6cf6-4439-83aa-36c3ff903373)
+
+
 
 
 ## Отримання списку dataset
 Method: GET
+![image](https://github.com/TarasVasiliev/lab6/assets/159653005/bd02bd7d-a05b-40c0-b4dc-d447e365bf42)
 
-![](https://github.com/TarasVasiliev/lab-6/assets/159653005/772b1764-3e94-4c9c-802f-0b398cee00d4)
+
 
 ## Отримання конкретного dataset
 Method: GET
 
-![](https://github.com/TarasVasiliev/lab-6/assets/159653005/001c3bcf-2388-403b-911b-3af85348a157)
+![image](https://github.com/TarasVasiliev/lab6/assets/159653005/2dfa57b2-3ef8-40ef-86cc-40bb8a4387a8)
+
+
 
 
 ## Оновлення dataset
 Method: PUT
 
-![](https://github.com/TarasVasiliev/lab-6/assets/159653005/559d72d3-b429-439a-9d64-6d4071a7700c)
+![image](https://github.com/TarasVasiliev/lab6/assets/159653005/c8db4aac-ad18-4f59-bd92-73874d3105ba)
 
 
 Оновлена інформація
 
-![](https://github.com/TarasVasiliev/lab-6/assets/159653005/398ba9b1-3d57-44e9-ad20-305504588bb8)
+![image](https://github.com/TarasVasiliev/lab6/assets/159653005/4d7c8a52-23fb-4d10-8bb9-582f96afab2a)
+
 
 
 ## Видалення dataset
 Method: DELETE
 
-![](https://github.com/TarasVasiliev/lab-6/assets/159653005/2a8aff6c-2c1a-4a5c-972b-ed00f5756b02)
+![image](https://github.com/TarasVasiliev/lab6/assets/159653005/cd3084b8-798a-4c3c-9218-6480960ad94f)
+
 
 
 Список після видалення
 
-![](https://github.com/TarasVasiliev/lab-6/assets/159653005/b284ec00-25fa-4c4b-b8d8-8e9d98b67a37)
+![image](https://github.com/TarasVasiliev/lab6/assets/159653005/ac918a9d-1e59-426b-9f81-94e81423c6a3)
 
 
